@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Fanbox Image Grabber",
+  "version": "0.1",
+  "description": "Grab images from fanbox",
+  "icons": {
+    "48": "icons/48.png"
+  },
+
+  "permissions": [
+    "<all_urls>"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.fanbox.cc/*"],
+      "js": [
+        "js/filesaver.js",
+        "js/grabber.js",
+        "js/jquery.js",
+        "js/jszip.js"
+      ]
+    }
+  ]
+}
