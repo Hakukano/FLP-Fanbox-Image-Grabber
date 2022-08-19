@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Fanbox Image Grabber",
+  "name": "FLP Image Grabber",
   "version": "0.1",
-  "description": "Grab images from fanbox",
+  "description": "Grab images from fanbox and others",
   "icons": {
     "48": "icons/48.png"
   },
