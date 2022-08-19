@@ -1,4 +1,4 @@
-object := fanbox_image_grabber.zip
+object := image_grabber.zip
 
 files := icons js manifest.json
 
