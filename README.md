@@ -5,10 +5,11 @@ This extension adds a tiny button on the top left of the Pixiv Fanbox (maybe som
 I've been tired with saving those beloved images one by one and the other extension I found doesn't work for me.
 
 # How
-Some JavaScript magic.
+Load this extesion on about:debugging page because I don't want to publish it.
 
 # Where
-Load this extesion on about:debugging page because I don't want to publish it.
+- Pixiv Fanbox
+- (Other sites in the future)...
 
 # Disclaimer
 This extension only grabs images that the user is able to view, i.e. you still need to be a member of the creator in order to unlock limited contents.
