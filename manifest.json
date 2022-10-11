@@ -13,7 +13,7 @@
 
   "content_scripts": [
     {
-      "matches": ["https://www.fanbox.cc/*"],
+      "matches": ["https://*.fanbox.cc/*"],
       "js": [
         "js/filesaver.js",
         "js/grabber.js",
