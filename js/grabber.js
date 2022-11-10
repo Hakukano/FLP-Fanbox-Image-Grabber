@@ -1,4 +1,4 @@
-const image_regex = /https:\/\/downloads\.fanbox\.cc\/images\/post\/\d+\/.+\.png/g
+const image_regex = /https:\/\/downloads\.fanbox\.cc\/images\/post\/\d+\/.+\.(png|jpg|jpeg)/g
 
 function grab() {
   const title = $('article h1').first().text()
