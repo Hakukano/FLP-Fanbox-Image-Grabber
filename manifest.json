@@ -16,7 +16,16 @@
       "matches": ["https://*.fanbox.cc/*"],
       "js": [
         "js/filesaver.js",
-        "js/grabber.js",
+        "js/grabber_fanbox.js",
+        "js/jquery.js",
+        "js/jszip.js"
+      ]
+    },
+    {
+      "matches": ["https://fantia.jp/posts/*"],
+      "js": [
+        "js/filesaver.js",
+        "js/grabber_fantia.js",
         "js/jquery.js",
         "js/jszip.js"
       ]
