@@ -9,7 +9,8 @@ Load this extesion on about:debugging page because I don't want to publish it.
 
 # Where
 - Pixiv Fanbox
-- (Other sites in the future)...
+- Fantia
+- (more to come...)
 
 # Disclaimer
 This extension only grabs images that the user is able to view, i.e. you still need to be a member of the creator in order to unlock limited contents.
